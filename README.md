@@ -1,13 +1,12 @@
-
 ![](./assets/okky-banner.png "Okky Anggoro")
 
 # Hello, World! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 My name is Okky Anggoro and I'm a Full Stack Web Developer/SEO Specialist. I'm from Indonesia, living in Samarinda and currently learning at RevoU.
 
-## :fire: A Few quick facts about me:
-<img align="right" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200" height="200" />
+## :fire: A Few quick facts about me
 
+<img align="right" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200" height="200" />
 
 - 🔭 I’m currently working on **something cool 😉**
 
@@ -17,7 +16,7 @@ My name is Okky Anggoro and I'm a Full Stack Web Developer/SEO Specialist. I'm f
 
 - 📫 How to reach me **anggorookky@gmail.com**
 
-## :hammer_and_wrench: Technologies & Tools:
+## :hammer_and_wrench: Technologies & Tools
 
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -33,12 +32,12 @@ My name is Okky Anggoro and I'm a Full Stack Web Developer/SEO Specialist. I'm f
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## :rocket: Connect with me:
+## :rocket: Connect with me
 
 <a href="https://linkedin.com/in/okky-anggoro" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="okky-anggoro" height="30" width="100" /></a>
 <a href="https://discord.gg/Okky Anggoro#7812" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Okky Anggoro#7812" height="30" width="100" /></a>
 
-### My Web Inspirations :
+## My Web Inspirations
 
 Below is some of well known web portfolio, i hope i can make a website like this, _someday._
 
@@ -48,8 +47,30 @@ Below is some of well known web portfolio, i hope i can make a website like this
 | [Sittiphol Phanvilai](https://nuuneoi.com/profile) |  Second Coolest |
 | [Banorama](https://banorama.banenor.no/)           |   third coolest |
 
-### My Portfolio:
+## My Portfolio
 
 1. [Project 1](https://github.com/anggr/ProjectAlpha-MERN)
 2. [Project 2](https://github.com/anggr/Alpha-BE-Pg)
 3. [Project 3](https://github.com/anggr/Gamepedia)
+
+## My Code Example
+
+<details>
+  <summary> HTML</summary>
+
+### HTML
+
+```html
+<main class="content">
+  <h1>Hello World</h1>
+  <p>This is a paragraph.</p>
+</main>
+```
+
+</details>
+
+## 
+
+<a href="https://github.com/anggr/anggr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggr&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
