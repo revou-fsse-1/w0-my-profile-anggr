@@ -5,6 +5,15 @@
 My name is Okky Anggoro and I'm a Full Stack Web Developer/SEO Specialist. I'm from Indonesia, living in Samarinda and currently learning at RevoU.
 
 <img align="right" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200" height="200" />
+## :fire: A Few quick facts about me:
+
+- 🔭 I’m currently working on **something cool 😉**
+
+- 🌱 I’m currently learning **everything 🤣**
+
+- 👨‍💻 All of my projects are available at [okky.me](okky.me)
+
+- 📫 How to reach me **anggorookky@gmail.com**
 
 ## :hammer_and_wrench: Technologies & Tools:
 
@@ -27,8 +36,6 @@ My name is Okky Anggoro and I'm a Full Stack Web Developer/SEO Specialist. I'm f
 <a href="https://linkedin.com/in/okky-anggoro" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="okky-anggoro" height="30" width="100" /></a>
 <a href="https://discord.gg/Okky Anggoro#7812" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Okky Anggoro#7812" height="30" width="100" /></a>
 
-## :fire: Fun fact about me:
-
 ### My Web Inspirations :
 
 Below is some of well known web portfolio, i hope i can make a website like this, _someday._
@@ -39,8 +46,8 @@ Below is some of well known web portfolio, i hope i can make a website like this
 | [Sittiphol Phanvilai](https://nuuneoi.com/profile) |  Second Coolest |
 | [Banorama](https://banorama.banenor.no/)           |   third coolest |
 
-### My Web Portfolio
+### My Web Portfolio:
 
-1. [Project 1](https://bruno-simon.com/)
-2. [Project 2](https://bruno-simon.com/)
-3. [Project 3](https://bruno-simon.com/)
+1. [Project 1](https://github.com/anggr/ProjectAlpha-MERN)
+2. [Project 2](https://github.com/anggr/Alpha-BE-Pg)
+3. [Project 3](https://github.com/anggr/Gamepedia)
