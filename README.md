@@ -72,7 +72,7 @@ Below is some of well known web portfolio, i hope i can make a website like this
   <summary> CSS</summary>
 
 
-```HTML
+```CSS
 .content {
   color: #111;
   font-size: 1.2rem;
