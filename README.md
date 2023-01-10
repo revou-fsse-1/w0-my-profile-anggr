@@ -5,9 +5,9 @@
 
 My name is Okky Anggoro and I'm a Full Stack Web Developer/SEO Specialist. I'm from Indonesia, living in Samarinda and currently learning at RevoU.
 
+## :fire: A Few quick facts about me:
 <img align="right" src="https://media.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif" width="200" height="200" />
 
-## :fire: A Few quick facts about me:
 
 - 🔭 I’m currently working on **something cool 😉**
 
