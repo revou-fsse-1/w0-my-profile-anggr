@@ -89,6 +89,5 @@ console.log(text);
 
 </details>
 
-##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggr&layout=compact&langs_count=3)](https://github.com/anggr/github-readme-stats)
