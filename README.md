@@ -37,7 +37,7 @@ My name is Okky Anggoro and I'm a Full Stack Web Developer/SEO Specialist. I'm f
 <a href="https://linkedin.com/in/okky-anggoro" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="okky-anggoro" height="30" width="100" /></a>
 <a href="https://discord.gg/Okky Anggoro#7812" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Okky Anggoro#7812" height="30" width="100" /></a>
 
-## My Web Inspirations
+## :sparkles: My Web Inspirations
 
 Below is some of well known web portfolio, i hope i can make a website like this, _someday._
 
@@ -45,9 +45,9 @@ Below is some of well known web portfolio, i hope i can make a website like this
 | :------------------------------------------------- | --------------: |
 | [Bruno Simon](https://bruno-simon.com/)            | Coolest Website |
 | [Sittiphol Phanvilai](https://nuuneoi.com/profile) |  Second Coolest |
-| [Banorama](https://banorama.banenor.no/)           |   third coolest |
+| [Banorama](https://banorama.banenor.no/)           |   Third coolest |
 
-## My Portfolio
+## :zap: My Portfolio
 
 1. [Project 1](https://github.com/anggr/ProjectAlpha-MERN)
 2. [Project 2](https://github.com/anggr/Alpha-BE-Pg)
@@ -58,19 +58,17 @@ Below is some of well known web portfolio, i hope i can make a website like this
 <details>
   <summary> HTML</summary>
 
-
-
 ```HTML
 <main class="content">
   <h1>Hello World</h1>
   <p>This is a paragraph.</p>
 </main>
 ```
+
 </details>
 
 <details>
   <summary> CSS</summary>
-
 
 ```CSS
 .content {
@@ -78,20 +76,19 @@ Below is some of well known web portfolio, i hope i can make a website like this
   font-size: 1.2rem;
 }
 ```
+
 </details>
 
 <details>
   <summary> Javascript</summary>
 
-
 ```js
 const text = "Hello World";
 console.log(text);
 ```
+
 </details>
 
 ##
 
-<a href="https://github.com/anggr/anggr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggr&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggr&layout=compact&langs_count=3)](https://github.com/anggr/github-readme-stats)
