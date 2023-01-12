@@ -91,5 +91,5 @@ console.log(text);
 
 
 <a href="https://github.com/anggr/anggr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggr&layout=compact&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-phi-steel-11.vercel.app/api/top-langs/?username=anggr&layout=compact&langs_count=3" />
 </a>
